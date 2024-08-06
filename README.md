@@ -13,3 +13,4 @@ Insert your name and create a pull-request to the main repo.
 8. Prisha Shrestha1
 9. sujal shrestha 
 10. aayushma
+11. Neerajan Subedi
