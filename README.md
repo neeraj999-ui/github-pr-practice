@@ -15,3 +15,4 @@ Insert your name and create a pull-request to the main repo.
 10. aayushma
 11. Neerajan Subedi
 12. Nikitaa
+13. Yurika shrestha
