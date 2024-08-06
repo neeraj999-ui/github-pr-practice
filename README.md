@@ -3,4 +3,5 @@ Fork this repo to your account
 Insert your name and create a pull-request to the main repo.
 
 1. Gaurav Shah
-2. Swayam Dulal
+2. Hackademia 2024
+3. Swayam Dulal
