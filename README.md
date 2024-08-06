@@ -9,4 +9,4 @@ Insert your name and create a pull-request to the main repo.
 4. Swayam Dulal
 5. Saurav Dhoju
 6. Shreyeska
-
+7. Aayush Rumba
