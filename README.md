@@ -1,11 +1,13 @@
 # github-pr-practice
+
 Fork this repo to your account
 Insert your name and create a pull-request to the main repo.
 
-1. Gaurav Shah
-2. Prisha Shrestha1
-3. message
-
-
-
-
+1. Prakriti acharya
+2. Nirusha Chalise
+3. Hackamedia 2024
+4. Swayam Dulal
+5. Saurav Dhoju
+6. Shreyeska
+7. Aayush Rumba
+8. Prisha Shrestha1
